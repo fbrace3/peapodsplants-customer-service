@@ -1,0 +1,13 @@
+package com.peapodsplants.customerservice;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class PeapodsplantsCustomerServiceApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(PeapodsplantsCustomerServiceApplication.class, args);
+    }
+
+}
